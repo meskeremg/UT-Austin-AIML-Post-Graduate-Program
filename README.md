@@ -7,6 +7,8 @@
 
 <li><a href="https://github.com/meskeremg/UT-Austin-AIML-Post-Graduate-Program/blob/main/Full_Code_NLP_RAG_Project_Meskerem_Goshime_January_2026%20cleaned.ipynb">NLP RAG Medical Assistant</a></li>
 
+<li><a href="https://github.com/meskeremg/FinalCapstone">NLP Book Recommendation System</a></li>
+
 <li><a href="https://github.com/meskeremg/UT-Austin-AIML-Post-Graduate-Program/blob/main/Computer_Vision_HelmNet_Full_Code_Meskerem_Goshime.ipynb">Computer Vision Helmet Safety</a></li>
   
 <li><a href="https://github.com/meskeremg/UT-Austin-AIML-Post-Graduate-Program/blob/main/Neural_Network_INN_ReneWind_Meskerem_Goshime_updated.ipynb">Neural Network Machine Failure Prediction</a></li>
