@@ -1,5 +1,5 @@
 ### Meskerem Goshime 
-#### University of Texas at Austin, Artificial Intelligence and Machine Learning Post Graduate Program
+#### Artificial Intelligence and Machine Learning Projects
 
 <ol>
   
